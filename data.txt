@@ -1,6 +1,5 @@
 domain=333.wenhao02.workers.dev
 file=wikipedia/commons/4/46/Presentatie_Theaterencyclopedie_%28Wikikerstborrelcon%29.webm
-database=20210310
 1.0.0.
 1.1.1.
 103.21.244.
