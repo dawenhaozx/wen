@@ -1,4 +1,4 @@
-domain=333.wenhao02.workers.dev
+domain=w.3337333.xyz
 file=wikipedia/commons/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg
 1.0.0.
 1.1.1.
